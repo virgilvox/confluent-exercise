@@ -1,0 +1,10 @@
+{
+    "type": "record",
+    "name": "NetflixUserBehavior",
+    "fields": [
+      {"name": "user_id", "type": "string"},
+      {"name": "movie_title", "type": "string"},
+      {"name": "watch_duration", "type": "float"},
+      {"name": "timestamp", "type": "string"}
+    ]
+  }

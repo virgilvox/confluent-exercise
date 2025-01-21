@@ -1,0 +1,3 @@
+# Schema Registry Configuration
+schema.registry.url=
+schema.registry.basic.auth.user.info=key:secret
